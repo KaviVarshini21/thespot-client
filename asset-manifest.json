@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/thespot-client/static/css/main.8fe4ba2a.css",
+    "main.js": "/thespot-client/static/js/main.847b6710.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/thespot-client/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/noodles.jpg": "/thespot-client/static/media/noodles.f6a167b2b79475148ddd.jpg",
+    "static/media/burger.jpeg": "/thespot-client/static/media/burger.a7e0767712f78b106a78.jpeg",
+    "static/media/grill.jpeg": "/thespot-client/static/media/grill.760091e78c7deedb8f3c.jpeg",
+    "static/media/biriyani.jpeg": "/thespot-client/static/media/biriyani.0fb6d69eb8cfa5f04f88.jpeg",
+    "static/media/fries.jpeg": "/thespot-client/static/media/fries.f443e32b7b16d8586814.jpeg",
+    "static/media/offer.jpeg": "/thespot-client/static/media/offer.8adfab50e4abc7f4c4b2.jpeg",
+    "static/media/champagne.png": "/thespot-client/static/media/champagne.2898392e823fb7b2c564.png",
+    "static/media/motorbike.png": "/thespot-client/static/media/motorbike.d457dbde78006a4a9e0c.png",
+    "static/media/cutlery.png": "/thespot-client/static/media/cutlery.b404efc53ae329486df1.png",
+    "index.html": "/thespot-client/index.html",
+    "main.8fe4ba2a.css.map": "/thespot-client/static/css/main.8fe4ba2a.css.map",
+    "main.847b6710.js.map": "/thespot-client/static/js/main.847b6710.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/thespot-client/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8fe4ba2a.css",
+    "static/js/main.847b6710.js"
+  ]
+}
